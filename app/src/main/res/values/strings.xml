@@ -3,4 +3,5 @@
     <string name="edit_message">Enter a message</string>
     <string name="button_send">Send</string>
     <string name="button_onClick">Ha funcionado</string>
+    <string name="dime_Pass">Buenas tardes, dime tu password: </string>
 </resources>
